@@ -1,0 +1,94 @@
+{
+    "figures": [
+        {
+            "figure": "round",
+            "options": {
+                "radius": 150,
+                "center": [200, 400]
+            },
+            "commonOptions": {
+                "lineColor": "#45161c",
+                "backgroundColor": "#ff2400",
+                "depth": 7
+            }
+        },
+        {
+            "figure": "triangle",
+            "options": {
+                "coords": [
+                    [100, 100],
+                    [300, 100],
+                    [200, 200]
+                ]
+            },
+            "commonOptions": {
+                "lineColor": "#cc66ff",
+                "backgroundColor": "#2af7ed",
+                "depth": 2
+            }
+        },
+        {
+            "figure": "square",
+            "options": {
+                "coords": [
+                    [350, 50],
+                    [500, 50],
+                    [500, 200],
+                    [350, 200]
+                ]
+            },
+            "commonOptions": {
+                "lineColor": "#ff3867",
+                "backgroundColor": "#b88fff",
+                "depth": 3
+            }
+        },
+        {
+            "figure": "polygon",
+            "options": {
+                "coords": [
+                    [639, 10], 
+                    [696, 82], 
+                    [673, 162], 
+                    [605, 190], 
+                    [527, 137], 
+                    [546, 59], 
+                    [616, 32]
+                ]
+            },
+            "commonOptions": {
+                "lineColor": "#f55200",
+                "backgroundColor": "#ffca86",
+                "depth": 5
+            }
+        },
+        {
+            "figure": "line",
+            "options": {
+                "coords": [
+                    [500, 500],
+                    [700, 590]
+                ]
+            },
+            "commonOptions": {
+                "lineColor": "#000000",
+                "backgroundColor": "#66ff00",
+                "depth": 3
+            }
+        },
+        {
+            "figure": "oval",
+            "options": {
+                "coords": [
+                    [400, 300],
+                    [600, 450]
+                ]
+            },
+            "commonOptions": {
+                "lineColor": "#122faa",
+                "backgroundColor": "#28071a",
+                "depth": 3
+            }
+        }
+    ]
+}
